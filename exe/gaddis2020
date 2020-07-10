@@ -1,3 +1,5 @@
 #!/usr/bin/env ruby
 
 require "gaddis2020"
+f = Gaddis2020::Fish.new
+f.fishing_spots
